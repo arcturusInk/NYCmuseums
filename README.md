@@ -15,7 +15,8 @@ The application can viewed be in augmented or mapped interface – as seen in th
 
 After the “More Information” link is clicked, it gives the user a link to the selected museum’s website and queries the database to get the museum’s phone number, hours of operation and admission fees. The second photo depicts how the app takes you to the museum’s website.
 
-![](https://user-images.githubusercontent.com/9923181/48083624-a4874180-e1c3-11e8-88e3-d2381063d976.jpg)
-![](https://user-images.githubusercontent.com/9923181/48083661-c4b70080-e1c3-11e8-9205-363f269a9aed.jpg)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9923181/48083624-a4874180-e1c3-11e8-88e3-d2381063d976.jpg?raw=true" alt="Feed" />
+   <img src="https://user-images.githubusercontent.com/9923181/48083661-c4b70080-e1c3-11e8-9205-363f269a9aed.jpg?raw=true" alt="Feed" />
+</p>
 The “Take Me There” link, takes you to Google Maps. It gives directions to the museum from your location.
